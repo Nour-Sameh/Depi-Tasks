@@ -1,0 +1,14 @@
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\bin\Debug\net10.0\Session 2 Assignment.exe
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\bin\Debug\net10.0\Session 2 Assignment.deps.json
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\bin\Debug\net10.0\Session 2 Assignment.runtimeconfig.json
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\bin\Debug\net10.0\Session 2 Assignment.dll
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\bin\Debug\net10.0\Session 2 Assignment.pdb
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\Session 2 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\Session 2 Assignment.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\Session 2 Assignment.AssemblyInfo.cs
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\Session 2 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\Session 2 Assignment.dll
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\refint\Session 2 Assignment.dll
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\Session 2 Assignment.pdb
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\Session 2 Assignment.genruntimeconfig.cache
+C:\Users\Master\source\repos\Session 2 Assignment\Session 2 Assignment\obj\Debug\net10.0\ref\Session 2 Assignment.dll
