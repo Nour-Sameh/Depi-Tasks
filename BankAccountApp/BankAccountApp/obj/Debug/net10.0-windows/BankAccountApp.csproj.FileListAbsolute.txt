@@ -1,0 +1,16 @@
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\bin\Debug\net10.0-windows\BankAccountApp.exe
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\bin\Debug\net10.0-windows\BankAccountApp.deps.json
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\bin\Debug\net10.0-windows\BankAccountApp.runtimeconfig.json
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\bin\Debug\net10.0-windows\BankAccountApp.dll
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\bin\Debug\net10.0-windows\BankAccountApp.pdb
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.Form1.resources
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.AssemblyInfo.cs
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.dll
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\refint\BankAccountApp.dll
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.pdb
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\BankAccountApp.genruntimeconfig.cache
+C:\Users\Master\source\repos\BankAccountApp\BankAccountApp\obj\Debug\net10.0-windows\ref\BankAccountApp.dll
